@@ -4,7 +4,7 @@
 position: absolute;
 width: 29.45px;
 height: 29.45px;
-left: 142px;
+left: 110px;
 top: 39.96px;
 border-radius: 29px;
 border: 2px solid #C9AC78;
@@ -15,7 +15,7 @@ border: 2px solid #C9AC78;
 .Spahouse{
 width: 142px;
 height: 44.51px;
-margin-left: 219px;
+margin-left: 180px;
 margin-top: 26.08px;
 
 font-family: 'Zen Old Mincho';
@@ -28,7 +28,7 @@ color: #000000;
 .one{
 width: 192px;
 height: 22.26px;
-margin-left: 450px;
+margin-left: 410px;
 margin-top: -44.46px;
 font-family: 'Zen Old Mincho';
 font-style: normal;
@@ -41,7 +41,7 @@ color: rgba(0, 0, 0, 0.8);
 .one_two{
 width: 161px;
 height: 22.26px;
-margin-left: 720px;
+margin-left: 640px;
 margin-top: -30.43px;
 font-family: 'Zen Old Mincho';
 font-style: normal;
@@ -55,7 +55,7 @@ color: rgba(0, 0, 0, 0.8);
 .header_boi_2 {
     position: absolute;
 top:48.23px;
-left: 700.37px;
+left: 620.37px;
 height: 19.53px;
 width: 13.7px;
 }
@@ -66,15 +66,13 @@ width: 13.7px;
     position: absolute;
 width: 119px;
 height: 22.26px;
-left: 980px;
+left: 840px;
 top: 48.46px;
-
 font-family: 'Zen Old Mincho';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 23px;
-
 color: rgba(0, 0, 0, 0.8);
 }
 .header_boi_3 img{
@@ -82,10 +80,10 @@ color: rgba(0, 0, 0, 0.8);
     width: 14.53px;
     height: 13.93px;
     top: 55.14px;
-    left: 950.32px;
+    left: 820.32px;
 }
 .nav-item{
-    padding: 10px;
+    padding: 3px;
 }
 .nav-item a{
 color: #000000;
@@ -101,11 +99,11 @@ text-align: left;
 }
 .section_icon{
     position: absolute;
-   margin-left: 650px;
+   margin-left: 520px;
    padding: 15px;
 }
 .section_icon img{
-    margin-left: 20px;
+    margin-left: 10px;
     cursor: pointer;
 }
 .hasib{
@@ -114,7 +112,7 @@ background: #C9AC78;
 }
 .section_boi_2{
 width: 207.68px;
-height: 82.21px;
+height: 69.21px;
 margin-left:-25px;
 margin-top:18px;
 background: #3B717B;
@@ -165,12 +163,13 @@ color: #000000;
 margin-top: 39px;
 border: 1px solid #C9AC78;
 border-radius: 50%;
-height: 466px;
-width: 481px;
+height: 400px;
+width: 400px;
+margin-left: 20px;
 }
 .main_boi_2 img{
     margin-top: 60.4px;
-    margin-left: -50px;
+    margin-left: -90px;
 }
 .main_section_3{
    
@@ -277,15 +276,15 @@ line-height: 20px;
 
 }
 .img_vic_2{
-    margin-top: 140px;
-    margin-left: 130px;
+    margin-top: 210px;
+    margin-left: 220px;
 }
 .main_boi_3{
 padding: 15px ;
 width: 92.83px;
 height: 59.01px;
 margin-left: 290px;
-margin-top: -95px;
+margin-top: -140px;
 background: #3B717B;
 border-radius: 0px 30px 0px 0px;
 }
@@ -537,7 +536,7 @@ color: rgba(0, 0, 0, 0.8);
     width: 100%;
 }
 .img7{
-    padding: 20px;
+   margin-left: -20px;
 }
 .service_boi_3{
 width: 259.21px;
@@ -546,6 +545,7 @@ padding: 20px;
 background: #C9AC78;
 border-radius: 7px;
 margin-top: 50px;
+margin-left: 30px;
 }
 .service_boi_3 input{
     text-align: center;
@@ -598,9 +598,10 @@ font-size: 32px;
 line-height: 46px;
 margin-top: 20px;
 color: rgba(0, 0, 0, 0.9);
+margin-left: 50px;
  }
  .Saterday{
-    margin-left: -150px;
+    margin-left: -10px;
 font-family: 'Zen Old Mincho';
 font-style: normal;
 font-weight: 400;
@@ -611,7 +612,7 @@ text-align: center;
 color: rgba(0, 0, 0, 0.8);
  }
  .Monday{
-    margin-left: -150px;
+    margin-left: -10px;
 
     font-family: 'Zen Old Mincho';
 font-style: normal;
@@ -623,7 +624,7 @@ text-align: center;
 color: rgba(0, 0, 0, 0.8);
  }
  .Thustday{
-    margin-left: -150px;
+    margin-left: -10px;
 
     font-family: 'Zen Old Mincho';
 font-style: normal;
@@ -635,7 +636,7 @@ text-align: center;
 color: rgba(0, 0, 0, 0.8);
  }
  .Westnessday{
-    margin-left: -150px;
+    margin-left: -10px;
 
     font-family: 'Zen Old Mincho';
 font-style: normal;
@@ -656,7 +657,6 @@ font-style: normal;
 font-weight: 400;
 font-size: 32px;
 line-height: 46px;
-
 color: #000000;
 margin-top: 67.58px;
 opacity: 0.9;
@@ -683,6 +683,33 @@ color: rgba(0, 0, 0, 0.7);
     margin-top: 83.43px;
     margin-left: 60px;
  }
+ .img_4{
+    margin-top: 100px;
+ }
+ .Rectangle20{
+margin-left: 20px;
+}
+.about_us{
+   margin-left: 220px;
+}
+.Touch{
+    margin-left: 90px;
+}
+.loramgg{
+    margin-left: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
  .react22{
     position: absolute;
 width: 172.18px;
@@ -690,8 +717,8 @@ height: 185.14px;
 left: 692.68px;
 top: 1927.13px;
 border-radius: 28px;
-margin-left:40px;
-margin-top: 180px;
+margin-left:-120px;
+margin-top: 140px;
  }
  .dd{
 width: 132.62px;

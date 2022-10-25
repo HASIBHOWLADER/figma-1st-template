@@ -1,7 +1,5 @@
 @media only screen and (max-width: 800px) {
-    body {
-      background-color: gold;
-    }
+   
 .header_boi1{
     margin-left: -110px;
 }
@@ -9,11 +7,11 @@
     margin-left: 80px;
 }
 .one{
-    margin-left: 400px;
+    margin-left: 300px;
 }
 .header_boi_2 {
     margin-top: 55px;
-    margin-left:-740px;
+    margin-left:-560px;
 }
 .one_two{
     margin-left: 80px;
@@ -22,10 +20,10 @@
 
 .header_boi_3 img{
     margin-top: 60px;
-   margin-left:-570px;
+   margin-left:-530px;
  }
  .demo{
-margin-left: -560px;
+margin-left: -520px;
 margin-top: 60px;
  }
 
@@ -44,7 +42,7 @@ margin-top: 60px;
 }
 .loram2{
    
-margin-left:-20px;
+margin-left:10px;
     
     }
 .main_boi_2 img{
@@ -52,11 +50,25 @@ margin-left:-20px;
     margin-left: -100px;
 }
 
+.finaly{
+    margin-left: 50px;
+}
+.read{
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
+
 .Rectangle5{
-  margin-left:-12px;
+  margin-left:32px;
 }
 .main_boi_2{
-    margin-top: 250px;
+    margin-top: 310px;
 }
 .main_section_5{
     margin-top: 50px;
@@ -85,8 +97,8 @@ margin-left:-20px;
    margin-left: 200px;
 }
 .Rectangle10{
- margin-top: -120px;
- margin-left: 80px;
+ margin-top: -50px;
+ margin-left: 50px;
     }
     .Rectangle9{
      margin-left: 20px;
