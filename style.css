@@ -1,0 +1,1071 @@
+.header_boi1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 29.45px;
+height: 29.45px;
+left: 142px;
+top: 39.96px;
+border-radius: 29px;
+border: 2px solid #C9AC78;
+}
+.header_boi1 img{
+    margin-left: 4px;
+}
+.Spahouse{
+width: 142px;
+height: 44.51px;
+margin-left: 219px;
+margin-top: 26.08px;
+
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 46px;
+color: #000000;
+}
+.one{
+width: 192px;
+height: 22.26px;
+margin-left: 450px;
+margin-top: -44.46px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 23px;
+
+color: rgba(0, 0, 0, 0.8);
+}
+.one_two{
+width: 161px;
+height: 22.26px;
+margin-left: 720px;
+margin-top: -30.43px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 23px;
+
+color: rgba(0, 0, 0, 0.8);
+
+}
+.header_boi_2 {
+    position: absolute;
+top:48.23px;
+left: 700.37px;
+height: 19.53px;
+width: 13.7px;
+}
+.hasib2{
+    width: 100%;
+}
+.demo{
+    position: absolute;
+width: 119px;
+height: 22.26px;
+left: 980px;
+top: 48.46px;
+
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 23px;
+
+color: rgba(0, 0, 0, 0.8);
+}
+.header_boi_3 img{
+   position: absolute;
+    width: 14.53px;
+    height: 13.93px;
+    top: 55.14px;
+    left: 950.32px;
+}
+.nav-item{
+    padding: 10px;
+}
+.nav-item a{
+color: #000000;
+text-transform: uppercase;
+font-family: Zen Old Mincho;
+font-size: 16px;
+font-weight: 700;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+.section_icon{
+    position: absolute;
+   margin-left: 650px;
+   padding: 15px;
+}
+.section_icon img{
+    margin-left: 20px;
+    cursor: pointer;
+}
+.hasib{
+margin-top: 18px;
+background: #C9AC78;
+}
+.section_boi_2{
+width: 207.68px;
+height: 82.21px;
+margin-left:-25px;
+margin-top:18px;
+background: #3B717B;
+}
+.section_boi_2 p{
+    padding: 26px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 23px;
+color: #FFFFFF;
+
+}
+/* main opan */
+.main_2{
+    width: 100%;
+}
+.Glow{
+width: 491px;
+height: 112.25px;
+margin-top: 83.8px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 58px;
+color: #000000;
+}
+.loram2{
+   
+width: 550.2px;
+height: 183.11px;
+
+margin-top: 22px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 20px;
+
+color: #000000;
+
+}
+.main_boi_2{
+    box-sizing: border-box;
+
+margin-top: 39px;
+border: 1px solid #C9AC78;
+border-radius: 50%;
+height: 466px;
+width: 481px;
+}
+.main_boi_2 img{
+    margin-top: 60.4px;
+    margin-left: -50px;
+}
+.main_section_3{
+   
+width: 151.78px;
+height: 46.12px;
+margin-top: -60px;
+background: #C9AC78;
+border-radius: 7px 0px;
+}
+.main_section_3 p{
+    padding: 13px;
+    margin-left: 25px;
+    cursor: pointer;
+    font-family: Zen Old Mincho;
+font-size: 14px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+}
+.main_section_4{
+box-sizing: border-box;
+width: 43.6px;
+height: 42.19px;
+margin-left: 200px;
+margin-top: -45px;
+border: 1px solid #C9AC78;
+border-radius: 50%;
+cursor: pointer;
+}
+.main_section_4 img{
+    padding: 13px;
+    
+}
+.View{
+    font-family: Zen Old Mincho;
+font-size: 14px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 280px;
+margin-top: -30px;
+cursor: pointer;
+}
+.Rectangle5{
+    margin-top: 88px;
+    margin-left: 180px;
+}
+.main_section_5{
+width: 350px;
+height: 118.01px;
+left: 668px;
+top: 640.09px;
+margin-top: -120px;
+margin-left: 500px;
+background:white;
+border-radius: 30px 30px 0px 0px;
+}
+.main_section_5 p{
+    
+
+width: 197px;
+height: 28.06px;
+margin-left: 50px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 29px;
+padding: 5px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.lorem_iosum{
+    margin-top: -80px;
+margin-left: 550px;
+    width: 550.2px;
+    height: 183.11px;
+    left: 723px;
+    top: 673.94px;
+    font-family: 'Zen Old Mincho';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    
+    color: rgba(0, 0, 0, 0.7);
+}
+.Read{
+width: 71px;
+height: 19.35px;
+left: 723px;
+top: 710.97px;
+margin-left: 550px;
+margin-top: -160px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 20px;
+
+}
+.img_vic_2{
+    margin-top: 140px;
+    margin-left: 130px;
+}
+.main_boi_3{
+padding: 15px ;
+width: 92.83px;
+height: 59.01px;
+margin-left: 290px;
+margin-top: -95px;
+background: #3B717B;
+border-radius: 0px 30px 0px 0px;
+}
+.main_boi_3 img{
+    margin-left: 15px;
+}
+.main_boi_4{
+   padding: 15px;
+width: 92.83px;
+height: 59.01px;
+margin-left: 290px;
+margin-top: -1px;
+background: #D8EBEE;
+border-radius: 0px;
+}
+.main_boi_4 img{
+    margin-left: 15px;
+}
+/* about opan .................................. */
+.aboutro{
+    width: 100%;
+}
+.Rectangle10{
+width: 166.44px;
+height: 227.1px;
+margin-top: 178.32px;
+}
+.Rectangle9{
+    margin-top: 68.16px;
+    width: 239.76px;
+height: 301.83px;
+}
+.about_us{
+   margin-top: 70px;
+width: 88px;
+height: 29px;
+left: 824px;
+top: 828.42px;
+
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 29px;
+/* identical to box height */
+color: #C9AC78;
+}
+.Touch{
+   
+width: 360px;
+height: 70px;
+left: 821px;
+top: 866.42px;
+
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 35px;
+
+color: #000000;
+}
+.loramgg{
+    
+width: 363.95px;
+height: 183.11px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 17px;
+color: #000000;
+}
+.four2k{
+    margin-top: -90px;
+    
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 35px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.hr1{
+    border: 1px solid black;
+    width: 70px;
+    margin-top: -30px;
+    margin-left: 60px;
+}
+.four5k{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 35px;
+/* identical to box height */
+color: #000000;
+margin-left: 150px;
+margin-top: -40px;
+}
+.hr2{
+    border: 1px solid black;
+    width: 70px;
+    margin-top: -30px;
+    margin-left: 230px;
+}
+.aksho4{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 35px;
+/* identical to box height */
+color: #000000;
+margin-left: 320px;
+margin-top: -38px;
+}
+.Happy{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 17px;
+
+color: #000000;
+
+}
+.Satisfied{
+    
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 17px;
+color: #000000;
+margin-left: 150px;
+margin-top: -35px;
+}
+.Awaruis{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 17px;
+color: #000000;
+margin-left: 320px;
+margin-top: -30px;
+}
+.read{
+    
+width: 108.23px;
+height: 39.75px;
+left: 821.49px;
+top: 1122.56px;
+margin-top: 37px;
+background: #3B717B;
+}
+.read p{
+    padding: 13px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 17px;
+color: #FFFFFF;
+}
+.react_9{
+width: 151px;
+height: 68.4px;
+left: 551.63px;
+top: 1133.37px;
+background: #D9D9D9;
+z-index:2;
+}
+.react_9 p{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 46px;
+
+color: #FFFFFF;
+padding: 20px;
+
+}
+.react_11{
+    position: relative;
+    background-color:white;
+    height: 130px;
+    width: 80px;
+    transform: rotate(140deg);
+    margin-left: 80px;
+    margin-top: -120px;
+  z-index: 0;
+}
+
+/* .react_10{
+width: 184.96px;
+height: 51.15px;
+left: 607.04px;
+top: 1150.62px;
+margin-left: 50px;
+margin-top: -50px;
+background: #C9AC78;
+
+} */
+/* our sarvice opan */
+.sarvice{
+background: #F5F2ED;
+}
+.our_sarvice{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 29px;
+/* identical to box height */
+color: rgba(201, 172, 120, 0.9);
+text-align: center;
+margin-top: 96px;
+padding: 20px;
+}
+.a_healt{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 123.8%;
+/* or 30px */
+text-align: center;
+color: #000000;
+opacity: 0.9;
+margin-top: -30px;
+}
+.Lorem_Ipsum_is{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 17px;
+text-align: center;
+color: rgba(0, 0, 0, 0.8);
+
+}
+.sarvice_boi_2{
+    width: 100%;
+}
+.img7{
+    padding: 20px;
+}
+.service_boi_3{
+width: 259.21px;
+height: 221px;
+padding: 20px;
+background: #C9AC78;
+border-radius: 7px;
+margin-top: 50px;
+}
+.service_boi_3 input{
+    text-align: center;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 17px;
+margin-left: 25px;
+color: rgba(0, 0, 0, 0.8);
+}
+.input2{
+    margin-top: 20px;
+    text-align: center;
+    height: 40px;
+}
+.service_boi_4{
+width: 81.86px;
+height: 24.43px;
+margin-top: 40px;
+background: #3B717B;
+border-radius: 5px;
+margin-left: 30px;
+}
+.service_boi_4 p{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 17px;
+margin-left: 15px;
+margin-top: -20px;
+color: rgba(255, 255, 255, 0.8);
+}
+.Lorem_Ipsum_is_simply{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 14px;
+margin-top: 10px;
+margin-left: 25px;
+color: rgba(0, 0, 0, 0.8);
+}
+ .Opening_Hours{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 46px;
+margin-top: 20px;
+color: rgba(0, 0, 0, 0.9);
+ }
+ .Saterday{
+    margin-left: -150px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 23px;
+text-align: center;
+
+color: rgba(0, 0, 0, 0.8);
+ }
+ .Monday{
+    margin-left: -150px;
+
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 23px;
+text-align: center;
+
+color: rgba(0, 0, 0, 0.8);
+ }
+ .Thustday{
+    margin-left: -150px;
+
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 23px;
+text-align: center;
+
+color: rgba(0, 0, 0, 0.8);
+ }
+ .Westnessday{
+    margin-left: -150px;
+
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 23px;
+text-align: center;
+
+color: rgba(0, 0, 0, 0.8);
+ }
+ /* make opanb............................. */
+ .make_section{
+    width: 100%;
+ }
+ .we{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 46px;
+
+color: #000000;
+margin-top: 67.58px;
+opacity: 0.9;
+ }
+ .we2{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 20px;
+
+color: rgba(0, 0, 0, 0.7);
+ }
+ .we3{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 20px;
+
+color: rgba(0, 0, 0, 0.7);
+ }
+ .Rectangle20{
+    margin-top: 83.43px;
+    margin-left: 60px;
+ }
+ .react22{
+    position: absolute;
+width: 172.18px;
+height: 185.14px;
+left: 692.68px;
+top: 1927.13px;
+border-radius: 28px;
+margin-left:40px;
+margin-top: 180px;
+ }
+ .dd{
+width: 132.62px;
+height: 127.16px;
+border: 2px solid #C9AC78;
+border-radius: 0px 25px;
+margin-top: -150px;
+margin-left: -20px;
+
+ }
+ .ee{
+   position: absolute;
+width: 37.58px;
+height: 37.58px;
+border-radius: 50%;
+background: #C9AC78;
+margin-top: -150px;
+
+ }
+ .img33{
+   margin-left: 13px;
+ }
+ /* our sarvice opan */
+ .OUR_SERVICE{
+    margin-top:201px ;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 29px;
+/* identical to box height */
+text-align: center;
+
+color: #C9AC78;
+
+ }
+ .True{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 29px;
+text-align: center;
+text-align: center;
+color: rgba(0, 0, 0, 0.9);
+ }
+ .aa{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 14px;
+text-align: center;
+color: #000000;
+ }
+ .our_sarvice_2_rr{
+    width: 100%;
+ }
+ .react25{
+    margin-top: 60px;
+ }
+ .pl{
+    font-family: 'Zen Old Mincho';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 139.50px;
+    color: rgba(0, 0, 0, 0.7);
+ }
+ .ple{
+    font-family: 'Zen Old Mincho';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    
+    color: rgba(0, 0, 0, 0.7);
+ }
+ .vec22{
+    position: absolute;
+    margin-top: 109px;
+ }
+ .vic33{
+    margin-left: 420px;
+    margin-top: -50px;
+ }
+ .rec44{
+width: 254.14px;
+height: 46.99px;
+left: 332.66px;
+top: 2657.87px;
+
+background: white;
+ }
+ .rec44 p{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 29px;
+/* identical to box height */
+margin-left: 70px;
+color: rgba(0, 0, 0, 0.8);
+ }
+.Bindeshi{
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 70px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 17px;
+
+color: rgba(0, 0, 0, 0.6);
+}
+.ht{
+    border: 1px solid black;
+    width: 40px;
+    transform: rotate(90deg);
+    margin-top: -25px;
+    margin-left: 30px;
+}
+.bindas{
+width: 47.68px;
+height: 44.55px;
+left: 586.8px;
+top: 2613.76px;
+margin-left: 250px;
+margin-top: -140px;
+background: #C9AC78;
+}
+.bindas2{
+    width: 47.68px;
+height: 46.55px;
+left: 586.8px;
+top: 2658.31px;
+margin-left: 250px;
+background: #3B717B;
+}
+.bindas img{
+    margin-left: 12px;
+    margin-top: 10px;
+}
+.bindas2 img{
+    margin-left: 12px;
+    margin-top: 10px;
+}
+/* news opan.................................................... */
+.LATEST{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 29px;
+/* identical to box height */
+margin-top: 72.74px;
+text-align: center;
+color: #C9AC78;
+}
+.Massage{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 29px;
+text-align: center;
+color: #000000;
+}
+.jamp{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 14px;
+text-align: center;
+color: #000000;
+}
+.news_boi{
+    width: 100%;
+}
+.Rectangle30{
+    margin-top: 72.61px;
+}
+.Sterday{
+    font-family: Zen Old Mincho;
+font-size: 12px;
+font-weight: 700;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.kk{
+width: 47.68px;
+height: 36.55px;
+left: 346.66px;
+top: 3135.83px;
+
+background: #3B717B;
+border-radius: 5px;
+}
+.kk p{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 29px;
+/* identical to box height */
+
+margin-left: 10px;
+color: #FFFFFF;
+}
+.kislu{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 8px;
+line-height: 9px;
+margin-left: 50px;
+margin-top: -40px;
+color: rgba(0, 0, 0, 0.7);
+}
+.all{
+    margin-left: 10px;
+}
+.allls{
+    margin-left: 20px;
+}
+.ajax{
+    width: 100%;
+}
+.rec23{
+    width: 160.46px;
+height: 98.98px;
+left: 852.33px;
+top: 3233.18px;
+    margin-top: 89px;
+}
+.rec36{
+    width: 160.46px;
+height: 98.98px;
+left: 852.33px;
+top: 3233.18px;
+
+    margin-top: 89px;
+}
+.rec31{
+    width: 160.46px;
+height: 98.98px;
+left: 852.33px;
+top: 3233.18px;
+
+    margin-top: 89px;
+}
+.rec32{
+    width: 160.46px;
+height: 98.98px;
+left: 852.33px;
+top: 3233.18px;
+    margin-top: 89px;
+}
+/* footer opan........................... */
+.footer_boi{
+    width: 100%;
+}
+.footer{
+   margin-top: 61px; 
+background-color: ;
+
+}
+.footer_boi1{
+    width: 55.26px;
+height: 55.26px;
+left: 326.65px;
+top: 3461.87px;
+border-radius: 50%;
+border: 2px solid #C9AC78;
+}
+.footer_boi1 img{
+    padding: 10px;
+}
+.Spahanes2{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 29px;
+/* identical to box height */
+margin-top: -30px;
+margin-left: 70px;
+color: #C9AC78;
+
+}
+.icon{
+    width: 134.6px;
+height: 0px;
+left: 331.21px;
+top: 3538.88px;
+
+border: 2px solid #C9AC78;
+transform: rotate(-0.06deg);
+}
+.icon_bb{
+    display: flex;
+
+}
+.icon_bb i{
+    margin-left: 10px;
+    background: #3B717B;
+border-radius: 2px;
+color: white;
+margin-top: 10px;
+cursor: pointer;
+}
+.Service2{
+    
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.Join_New{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 174.8%;
+/* identical to box height, or 35px */
+
+
+color: #000000;
+}
+.hh{
+    
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 14px;
+
+color: #000000;
+
+}
+.ssdd{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 7px;
+line-height: 10px;
+
+color: #000000;
+}
+.dsss{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 7px;
+line-height: 10px;
+margin-left: 75px;
+margin-top: -26px;
+color: #000000;
+}
+.kay{
+    margin-top: -120px;
+    margin-left: 170px;
+}
+.footer{
+    background-color: #F5F2ED;
+    padding: 40px;
+}
